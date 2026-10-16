@@ -1,0 +1,9 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple">#7C2CFF</color>
+    <color name="background">#101020</color>
+    <color name="panel">#18182D</color>
+    <color name="white">#F5F5FF</color>
+    <color name="muted">#A6A6C2</color>
+</resources>
