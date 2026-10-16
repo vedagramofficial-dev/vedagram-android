@@ -1,0 +1,10 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vedagram</string>
+    <string name="app_slogan">Больше, чем общение</string>
+    <string name="search_chats">Поиск чатов</string>
+    <string name="tab_chats">Чаты</string>
+    <string name="tab_contacts">Контакты</string>
+    <string name="tab_settings">Настройки</string>
+</resources>
